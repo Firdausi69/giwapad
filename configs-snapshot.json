@@ -1,0 +1,109 @@
+{
+ "chainId": 91342,
+ "slot": "v4-auto-route-20260917",
+ "registry": "0x6d043014972b87406C4757a5f2d655A24e0b0aF9",
+ "blockNumber": "41466033",
+ "nextConfigId": "31",
+ "configs": [
+  {
+   "configId": "1",
+   "enabled": true,
+   "configHash": "0x48b5150b6e253a8cf40d3f4dcc0549b93c6c8f0d7d3d43ac17bdd8ab00f47826",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "2",
+   "enabled": true,
+   "configHash": "0x48b5150b6e253a8cf40d3f4dcc0549b93c6c8f0d7d3d43ac17bdd8ab00f47826",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "3",
+   "enabled": true,
+   "configHash": "0x48b5150b6e253a8cf40d3f4dcc0549b93c6c8f0d7d3d43ac17bdd8ab00f47826",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "4",
+   "enabled": true,
+   "configHash": "0xec0f91c5bf2943454abdc139170e5ea204a38fc1e102541a6a27224ec881a293",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "5",
+   "enabled": true,
+   "configHash": "0xbb1e06d720c823de8dbcf9528b20301d961cda3d19a5df821721cb8879d778ef",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 1,
+   "segments": 1
+  },
+  {
+   "configId": "6",
+   "enabled": true,
+   "configHash": "0x6048908774397e0691bb0e19f72dabb790eb0d892d6081d3622b39e7f738e667",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "7",
+   "enabled": true,
+   "configHash": "0xc817ec25cd0c5646a3835fdb4781a5f6475158ba4b21e57afdc1a39382edba49",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "8",
+   "enabled": true,
+   "configHash": "0x3fd8f3b5e00ee7614320a3ef16e1d1f4645d200ba3e3e374abfea183d2de3fce",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "9",
+   "enabled": true,
+   "configHash": "0x569eb66eec935a8b68003d533230859d24e4116bce83ea27e5108be7b4eeb445",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  },
+  {
+   "configId": "10",
+   "enabled": true,
+   "configHash": "0xec0f91c5bf2943454abdc139170e5ea204a38fc1e102541a6a27224ec881a293",
+   "owner": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "feeClaimer": "0x13cD27a6E337097dB858C9C4FA472FbAd2F2c637",
+   "quoteToken": "0x4200000000000000000000000000000000000006",
+   "migrationMode": 0,
+   "segments": 1
+  }
+ ]
+}
